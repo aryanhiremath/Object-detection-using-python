@@ -1,5 +1,5 @@
 📜 Project Overview
-This project demonstrates an efficient object detection system built using Python. The implementation leverages state-of-the-art tools like YOLOv5, enabling accurate and real-time detection of various objects. It's ideal for applications in computer vision tasks like surveillance, autonomous vehicles, and image analysis
+This project demonstrates an efficient object detection system built using Python. The implementation leverages state-of-the-art tools like YOLOv5, enabling accurate and real-time detection of various objects. It's ideal for applications in computer vision tasks like surveillance, autonomous vehicles, and image analysis.
 
 🚀 Features
 Real-time object detection using YOLOv5.
